@@ -22,14 +22,13 @@ This project features a modern and responsive login page designed using HTML and
    - Open your terminal or command prompt.
    - Run the following command to clone the repository:
      ```bash
-     git clone https://github.com/yourusername/login-page.git
+     git clone https://github.com/mwasifshkeel/HUZAIFAWEBDEV.git
      ```
-   - Replace `yourusername` with your GitHub username and `login-page` with the name of your repository.
-
+     
 2. **Navigate to the Project Directory:**
    - Change directory to your project folder:
      ```bash
-     cd login-page
+     cd HUZAIFAWEBDEV
      ```
 
 3. **Open the Project:**
